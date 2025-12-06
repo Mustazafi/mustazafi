@@ -21,7 +21,7 @@
 ### 🛠️ Diller ve Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,python,java,php,mysql,postgresql,mongodb,docker,kubernetes,linux,git,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,python,php,mysql,postgresql,mongodb,docker,kubernetes,linux,git,figma,photoshop" />
 </p>
 
 ---
