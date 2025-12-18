@@ -61,7 +61,7 @@
 ### 🤝 Benimle İletişime Geç
 
 <p align="center">
-  <a href="mailto:mualka063@hotmail.com" target="_blank">
+  <a href="mailto:codealpx@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/>
   </a>
   <a href="https://linkedin.com/in/mustazafi" target="_blank">
@@ -72,9 +72,6 @@
   </a>
   <a href="https://codepen.io/mustazafi" target="_blank">
     <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="40"/>
-  </a>
-  <a href="https://x.com/codebuq" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" height="40"/>
   </a>
 </p>
 
